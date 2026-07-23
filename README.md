@@ -212,7 +212,7 @@ const hariharan = {
 
 # 🤝 Connect With Me
 
-💼 LinkedIn: linkedin.com/in/hariharan
+💼 LinkedIn: [linkedin.com/in/hariharan](https://www.linkedin.com/in/hariharan-s-8a046a236/)
 
 📧 Email: [hariharan.s.6369@gmail.com](mailto:hariharan.s.6369@gmail.com)
 
